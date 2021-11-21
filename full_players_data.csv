@@ -1,0 +1,9 @@
+weight_pounds,height_feet,nickname,height_inches,last_name,id,position,team,first_name
+null,null,Ikeee,null,Anigbogu,14,C,"{division:Central,conference:East,full_name:Indiana Pacers,city:Indiana,name:Pacers,id:12,abbreviation:IND}",Ike
+null,null,Roni,null,Baker,25,G,"{division:Atlantic,conference:East,full_name:New York Knicks,city:New York,name:Knicks,id:20,abbreviation:NYK}",Ron
+null,null,JabariWow,null,Bird,47,G,"{division:Atlantic,conference:East,full_name:Boston Celtics,city:Boston,name:Celtics,id:2,abbreviation:BOS}",Jabari
+null,null,MarShonWin,null,Brooks,67,G,"{division:Southwest,conference:West,full_name:Memphis Grizzlies,city:Memphis,name:Grizzlies,id:15,abbreviation:MEM}",MarShon
+null,null,Lorenzos,null,Brown,71,G,"{division:Atlantic,conference:East,full_name:Toronto Raptors,city:Toronto,name:Raptors,id:28,abbreviation:TOR}",Lorenzo
+null,null,OmriIs,null,Casspi,90,F,"{division:Southwest,conference:West,full_name:Memphis Grizzlies,city:Memphis,name:Grizzlies,id:15,abbreviation:MEM}",Omri
+200,6,Alexi,6,Abrines,1,G,"{division:Northwest,conference:West,full_name:Oklahoma City Thunder,city:Oklahoma City,name:Thunder,id:21,abbreviation:OKC}",Alex
+null,null,Tylero,null,Davis,119,C,"{division:Northwest,conference:West,full_name:Oklahoma City Thunder,city:Oklahoma City,name:Thunder,id:21,abbreviation:OKC}",Tyler
